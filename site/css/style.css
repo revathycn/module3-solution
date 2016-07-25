@@ -1,0 +1,32 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: Lucida Sans Unicode;
+}
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+
+.menu-chicken{
+	border:solid gray 1px;
+}
+.menu-beef{
+	border-left:solid gray 1px;
+	border-right:solid gray 1px;
+}
+.menu-sushi{
+	border:solid gray 1px;
+}
+#footer{
+	padding-right: 15px;
+	padding-bottom: 10px;
+}
+.menu-content {
+	background: #ccc;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+}
