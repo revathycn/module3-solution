@@ -6,20 +6,25 @@ body {
 }
 
 #header-nav {
-  border-radius: 0;
-  border: 0;
+  border-radius: 10px;
+  border: solid black 100px;
+  border-color: #85929E ;
+
 }
 
 
 .menu-chicken{
 	border:solid gray 1px;
+	background-color: #F5CBA7 ;
 }
 .menu-beef{
 	border-left:solid gray 1px;
 	border-right:solid gray 1px;
+	background-color: #76D7C4; 
 }
 .menu-sushi{
 	border:solid gray 1px;
+	background-color: #D7BDE2;  
 }
 #footer{
 	padding-right: 15px;
@@ -29,4 +34,5 @@ body {
 	background: #ccc;
  	padding-left: 10px;
  	padding-right: 10px;
+ 	height: 1000px
 }
